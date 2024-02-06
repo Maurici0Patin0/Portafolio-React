@@ -14,11 +14,11 @@ const About = () => {
                 </div>
 
                 <p className='text-xl mt-16'>
-                Desarrollador Full Stack egresado en Academlo startup educativa en programación y ciencias de computación. Obteniendo Certificado en Fundamentos de Desarrollo Web, Desarrollo de Aplicaciones Web con React y Back-End Node. 
+                Desarrollador Full Stack egresado en Academlo startup educativa en programación y ciencias de computación con Certificado en Fundamentos de Desarrollo Web, Desarrollo de Aplicaciones con React y  Node.  Con experiencia en el area de las  telecomunicaciones fribra optica.
                 </p>
                 <br />
                 <p className='text-xl'>
-                Ingeniero Electrónico en formación actualmente 7 semestre, Técnico en mantenimiento electrónico
+                Ingeniero de Sistemas en formación 4 semestre. apacionado por la tegnologia, trabajo en equipo y liderasgo.
                 </p>
             </div>
 

@@ -41,10 +41,10 @@ const SocialLink = () => {
                     CV <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/CVMP.pdf',
+            href: '/FullStackMauricioPt.pdf',
             style: 'rounded-br-md',
             dowload: true,
-        },
+        }
     ];
 
 

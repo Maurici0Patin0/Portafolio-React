@@ -42,7 +42,7 @@ const Contact = () => {
                     CV <BsFillPersonLinesFill size={40} />
                 </>
             ),
-            href: '/CVMP.pdf',
+            href: '/FullStackMauricioPt.pdf',
             style: 'rounded-br-md',
             dowload: true,
         },
